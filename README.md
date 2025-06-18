@@ -1,0 +1,1 @@
+# contruction-material-info-extraction-hackathon
